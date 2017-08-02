@@ -1,0 +1,22 @@
+{
+  "name": "import-analyse",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./src/aimport.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/aimport.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "dependencies": {
+    "babylon": "^6.16.1"
+  }
+}
